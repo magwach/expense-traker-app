@@ -34,44 +34,44 @@ Start the Development Server:
 
 _Add a Transaction:_
 
-Click on the "Add Transaction" button.​
-
-Fill in the description, amount, and select the transaction type (income or expense).​
-
-Submit the form to add the transaction to the list.​
+    Click on the "Add Transaction" button.​
+    
+    Fill in the description, amount, and select the transaction type (income or expense).​
+    
+    Submit the form to add the transaction to the list.​
 
 _View Transactions:_
 
-All recorded transactions are displayed in a list with their details.​
-
-Each transaction shows the description, amount, and type.​
+    All recorded transactions are displayed in a list with their details.​
+    
+    Each transaction shows the description, amount, and type.​
 
 _Delete a Transaction:_
 
-Click the delete button to remove the transaction from the list.​
+    Click the delete button to remove the transaction from the list.​
 
 
 **Dependencies**
 
-React: JavaScript library for building user interfaces.​
-
-Chakra UI: Component library for styling and layout.​
-
-Vite: Build tool for fast development.​
+    React: JavaScript library for building user interfaces.​
+    
+    Chakra UI: Component library for styling and layout.​
+    
+    Vite: Build tool for fast development.​
 
 **Contributing**
 
-Contributions are welcome! To contribute:​
-
-Fork the repository.​
-
-Create a new branch (git checkout -b feature-branch).​
-
-Make your changes and commit them (git commit -m 'Add new feature').​
-
-Push to the branch (git push origin feature-branch).​
-
-Open a pull request.​
+    Contributions are welcome! To contribute:​
+    
+    Fork the repository.​
+    
+    Create a new branch (git checkout -b feature-branch).​
+    
+    Make your changes and commit them (git commit -m 'Add new feature').​
+    
+    Push to the branch (git push origin feature-branch).​
+    
+    Open a pull request.​
 
 License
 This project is licensed under the MIT License.​
