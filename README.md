@@ -61,7 +61,6 @@ _Delete a Transaction:_
 
 **Contributing**
 
-    Contributions are welcome! To contribute:​
     
     Fork the repository.​
     
