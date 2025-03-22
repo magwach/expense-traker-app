@@ -73,7 +73,9 @@ _Delete a Transaction:_
     Open a pull request.​
 
 License
+
 This project is licensed under the MIT License.​
 
 Acknowledgements
+
 Inspired by various expense tracking applications and personal finance management tools.​
