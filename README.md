@@ -4,11 +4,11 @@ The Expense Tracker App is a web-based application designed to help users manage
 
 **Features**
 
-_Add Transactions: Easily record income and expenses with descriptions and amounts.​_
+Add Transactions: Easily record income and expenses with descriptions and amounts.​
 
-_Categorization: Classify transactions as income or expense for better organization.​_
+Categorization: Classify transactions as income or expense for better organization.​
 
-_Summary View: Get an overview of total income, expenses, and balance.​_
+Summary View: Get an overview of total income, expenses, and balance.​
 
 **Installation**
 
